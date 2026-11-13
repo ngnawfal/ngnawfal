@@ -1,4 +1,4 @@
-<a href="https://nawf.dev"><img src="https://nawf.dev/gh/header.svg" alt="Kaysan Nawfal Rafi, full-stack developer" width="100%" /></a>
+<a href="https://nawf.dev"><img src="https://nawf.dev/gh/header.svg?v=2" alt="Kaysan Nawfal Rafi, full-stack developer" width="100%" /></a>
 
 <p>
   <a href="https://nawf.dev">nawf.dev</a> ·
@@ -34,8 +34,8 @@ Most of the work sits where **product engineering** meets **systems thinking**: 
 
 ## GitHub
 
-<img src="https://nawf.dev/gh/stats.svg" alt="GitHub stats" width="100%" />
+<img src="https://nawf.dev/gh/stats.svg?v=2" alt="GitHub stats" width="100%" />
 
-<img src="https://nawf.dev/gh/activity.svg" alt="Contributions over the last 12 months" width="100%" />
+<img src="https://nawf.dev/gh/activity.svg?v=2" alt="Contributions over the last 12 months" width="100%" />
 
 <sub>Images are generated and served by nawf.dev from public GitHub data, refreshed hourly.</sub>
