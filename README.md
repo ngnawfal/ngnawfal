@@ -24,13 +24,13 @@ Most of the work sits where **product engineering** meets **systems thinking**: 
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **Onyx Residence** | Booking and kost management: online booking, resident portal, admin dashboard, payments and IoT room monitoring | Next.js, TypeScript, Tailwind | [Live](https://onyx.nawf.dev) · [Repo](https://github.com/nawfdev/onyx-residence) · [Case](https://nawf.dev/projects/onyx-residence) |
-| **nawf-web** | This portfolio and its admin panel: pages, projects, posts and appearance edited without touching code | Next.js, Drizzle, MySQL, Auth.js | [Live](https://nawf.dev) · [Repo](https://github.com/nawfdev/nawf-web) |
-| **Kasir Kyuzu · Open Kasir** | Two POS systems for food and retail stores: barcode scanning, roles, inventory, daily reports | React + Vite, FastAPI / Go | [Repo](https://github.com/nawfdev/kasirKyuzu) · [Repo](https://github.com/nawfdev/open_kasir) · [Case](https://nawf.dev/projects/kasir-kyuzu) |
-| **NC Finance** | Finance and accounting web app with separate frontend and backend services | TypeScript, Next.js | [Repo](https://github.com/nawfdev/nc-finance) · [Case](https://nawf.dev/projects/nc-finance) |
-| **CF Panel · Home Panel** | Cloudflare Tunnel panel with tunnel auto-recovery, and a private homelab dashboard | Node.js, Cloudflare Tunnel | [Repo](https://github.com/nawfdev/cf_panel) · [Case](https://nawf.dev/projects/cf-panel) |
-| **Tabungan Bot** | WhatsApp assistant for savings and expenses, with a web admin dashboard | Node.js, WhatsApp Web API | [Repo](https://github.com/nawfdev/tabungan-bot) · [Case](https://nawf.dev/projects/tabungan-bot) |
-| **MQ5 Skills** | AI skill for writing production-ready MetaTrader 5 Expert Advisors, survival-first risk | MQL5 | [Repo](https://github.com/nawfdev/mq5_skills) · [Case](https://nawf.dev/projects/mq5-skills) |
+| **Onyx Residence** | Booking and kost management: online booking, resident portal, admin dashboard, payments and IoT room monitoring | Next.js, TypeScript, Tailwind | [Live](https://onyx.nawf.dev) · [Repo](https://github.com/ngnawfal/onyx-residence) · [Case](https://nawf.dev/projects/onyx-residence) |
+| **nawf-web** | This portfolio and its admin panel: pages, projects, posts and appearance edited without touching code | Next.js, Drizzle, MySQL, Auth.js | [Live](https://nawf.dev) · [Repo](https://github.com/ngnawfal/nawf-web) |
+| **Kasir Kyuzu · Open Kasir** | Two POS systems for food and retail stores: barcode scanning, roles, inventory, daily reports | React + Vite, FastAPI / Go | [Repo](https://github.com/ngnawfal/kasirKyuzu) · [Repo](https://github.com/ngnawfal/open_kasir) · [Case](https://nawf.dev/projects/kasir-kyuzu) |
+| **NC Finance** | Finance and accounting web app with separate frontend and backend services | TypeScript, Next.js | [Repo](https://github.com/ngnawfal/nc-finance) · [Case](https://nawf.dev/projects/nc-finance) |
+| **CF Panel · Home Panel** | Cloudflare Tunnel panel with tunnel auto-recovery, and a private homelab dashboard | Node.js, Cloudflare Tunnel | [Repo](https://github.com/ngnawfal/cf_panel) · [Case](https://nawf.dev/projects/cf-panel) |
+| **Tabungan Bot** | WhatsApp assistant for savings and expenses, with a web admin dashboard | Node.js, WhatsApp Web API | [Repo](https://github.com/ngnawfal/tabungan-bot) · [Case](https://nawf.dev/projects/tabungan-bot) |
+| **MQ5 Skills** | AI skill for writing production-ready MetaTrader 5 Expert Advisors, survival-first risk | MQL5 | [Repo](https://github.com/ngnawfal/mq5_skills) · [Case](https://nawf.dev/projects/mq5-skills) |
 
 ## GitHub
 
